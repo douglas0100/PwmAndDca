@@ -1,0 +1,16 @@
+C:/Users/Bemielison/Desktop/PWM_DAC_V3/Core/Src/stm32h7xx_hal_msp.c:66:6:HAL_MspInit	1
+C:/Users/Bemielison/Desktop/PWM_DAC_V3/Core/Src/stm32h7xx_hal_msp.c:88:6:HAL_ADC_MspInit	3
+C:/Users/Bemielison/Desktop/PWM_DAC_V3/Core/Src/stm32h7xx_hal_msp.c:144:6:HAL_ADC_MspDeInit	2
+C:/Users/Bemielison/Desktop/PWM_DAC_V3/Core/Src/stm32h7xx_hal_msp.c:174:6:HAL_DAC_MspInit	2
+C:/Users/Bemielison/Desktop/PWM_DAC_V3/Core/Src/stm32h7xx_hal_msp.c:208:6:HAL_DAC_MspDeInit	2
+C:/Users/Bemielison/Desktop/PWM_DAC_V3/Core/Src/stm32h7xx_hal_msp.c:236:6:HAL_ETH_MspInit	2
+C:/Users/Bemielison/Desktop/PWM_DAC_V3/Core/Src/stm32h7xx_hal_msp.c:306:6:HAL_ETH_MspDeInit	2
+C:/Users/Bemielison/Desktop/PWM_DAC_V3/Core/Src/stm32h7xx_hal_msp.c:350:6:HAL_I2C_MspInit	3
+C:/Users/Bemielison/Desktop/PWM_DAC_V3/Core/Src/stm32h7xx_hal_msp.c:397:6:HAL_I2C_MspDeInit	2
+C:/Users/Bemielison/Desktop/PWM_DAC_V3/Core/Src/stm32h7xx_hal_msp.c:428:6:HAL_TIM_Base_MspInit	3
+C:/Users/Bemielison/Desktop/PWM_DAC_V3/Core/Src/stm32h7xx_hal_msp.c:455:6:HAL_TIM_MspPostInit	3
+C:/Users/Bemielison/Desktop/PWM_DAC_V3/Core/Src/stm32h7xx_hal_msp.c:507:6:HAL_TIM_Base_MspDeInit	3
+C:/Users/Bemielison/Desktop/PWM_DAC_V3/Core/Src/stm32h7xx_hal_msp.c:540:6:HAL_UART_MspInit	3
+C:/Users/Bemielison/Desktop/PWM_DAC_V3/Core/Src/stm32h7xx_hal_msp.c:591:6:HAL_UART_MspDeInit	2
+C:/Users/Bemielison/Desktop/PWM_DAC_V3/Core/Src/stm32h7xx_hal_msp.c:622:6:HAL_PCD_MspInit	3
+C:/Users/Bemielison/Desktop/PWM_DAC_V3/Core/Src/stm32h7xx_hal_msp.c:680:6:HAL_PCD_MspDeInit	2
